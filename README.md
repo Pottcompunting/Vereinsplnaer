@@ -1,0 +1,2 @@
+# Vereinsplnaer
+Verwaltungssoftware für Vereine
